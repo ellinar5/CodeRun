@@ -3,4 +3,4 @@
 **CodeRun** — это онлайн-платформа для разработчиков всех уровней, предлагающая задачи для обучения и подготовки к карьере в IT. Начинающие найдут простые задачи для старта и пошаговое обучение, а опытные разработчики — сложные задания для улучшения навыков и подготовки к собеседованиям. Платформа включает задачи по фронтенду, бэкенду, аналитике данных, машинному обучению и мобильной разработке. Также доступны соревнования и рейтинги с возможностью выиграть призы и попасть на работу в Яндекс. CodeRun — это личный тренажёр для развития навыков программирования.
 
 
-<img src="[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbLPH9H5zdepNauIRb4Gof3KWaruKD5iiSQ&s](https://www.hse.ru/data/2024/05/03/2135132363/3pic1%20(1).png](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?semt=ais_hybrid&w=740))" width="640" height="360">
+<img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?semt=ais_hybrid&w=740" width="640" height="360">
