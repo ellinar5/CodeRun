@@ -1,4 +1,4 @@
-#  [Задача №2 - Треугольник] (https://coderun.yandex.ru/selections/quickstart/problems/triangle)
+# [Задача №2 - Треугольник](https://coderun.yandex.ru/selections/quickstart/problems/triangle)
 
 ## Условие задачи
 
